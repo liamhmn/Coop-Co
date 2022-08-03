@@ -1,4 +1,4 @@
-let soulEggGain = D(0)
+let soulEggGain = D(40)
 let soulEggBoost = D(0)
 let prophecyEggBoost = D(0)
 let contractRewardBoost = D(1)
