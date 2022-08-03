@@ -10,7 +10,7 @@ const commonResearchDescs = ['Egg Laying Rate +10%','Egg Value +25%','+8 Chicken
     'Egg Laying Rate & Egg Value + 15%','Egg Value +15%','Doubles Egg Value','+100 Chickens/min','Egg Value +10%',
     '+20 Chickens/min','Egg Laying Rate +10%','Double Egg Density (Value)','Egg Value +25%','+200 Chickens/min','Egg Quality (Value) +25%',
     'Egg Value +10%','10x Egg Value','Egg Laying Rate +2%','Egg Value +5%','Increases Egg Value +1%','10x Egg Value','Egg Laying Rate +10%']
-const commonResearchMaxLevel = [D(50),D(40),D(100),D(30),D(1),D(10),D(1),D(50),D(35),D(15),D(30),D(60),D(5),D(30),D(100),D(250),D(20),
+const commonResearchMaxLevel = [D(50),D(40),D(100),D(30),D(100),D(10),D(100),D(50),D(35),D(15),D(30),D(60),D(5),D(30),D(100),D(250),D(20),
     D(7),D(100),D(30),D(50),D(3),D(50),D(25),D(100),D(500),D(1),D(10)]
 const commonResearchBaseCost = [D(0.0000005),D(0.16),D(0.1836),D(0.454986),D(0.1351894),D(0.16029660),D(32.3182),D(29894),D(530.56),D(2.88612),
     D(7.48812),D(14.738e15),D(28.608e18),D(330.094e15),D(112.026e18),D(145.17e21),D(34.476e21),D(78.316e27),D(246.06e27),D(702.028e24),
